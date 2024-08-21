@@ -1,5 +1,5 @@
-#!/bin/bash
+#!/bin/sh
 
-# This is a simple bash script that prints a message
-echo "Hello, World!"
+echo "Hi, This is my first concourse pipeline"
 
+echo "It worked"
